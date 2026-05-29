@@ -3,3 +3,9 @@
 # Introduction to TypeScript
 
 - Type annotations
+- Any
+- Void
+- Object
+- Array
+- Tuple
+- Enum
